@@ -2,15 +2,11 @@
   <img width="200" src="src/assets/logo.svg">
 </div>
 <br>
-<div  align="center">
-  <img alt="APM" src="https://img.shields.io/apm/l/code-school?color=B83280">
-  <img alt="Daniel - Todo list" src="https://img.shields.io/badge/Daniel-Code--school-67159C">
-</div>
+
 <br>
 <hr>
 <p align="center">
-  This is a simple todo application as part of rocketseat training <br> 
-  Hope you like it! 😀
+  Este é um aplicativo de tarefas simples como parte do treinamento do Rocketseat <br> 
 </p>
 
 <img width="100%" src="public/cover.gif">
@@ -21,13 +17,13 @@
 
 <br>
 <h2 align="center">Features 🛠</h2>
-[x] - Create a task <br>
-[x] - Delete a task <br>
-[x] - Complet a task <br>
+[x] - Criar uma tarefa <br>
+[x] - Deletar uma tarefa <br>
+[x] - Completar uma tarefa <br>
 
 <br>
 <hr>
-<h2 align="center">Technologies ✨</h2>
+<h2 align="center">Tecnologias</h2>
 <br>
 <div align="center">
 <img alt="Typescript language" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -37,28 +33,28 @@
 <hr>
 
 <br>
-<h2 align="center">How to run this project</h2>
+<h2 align="center">Como executar este projeto</h2>
 <br>
 
-Clone this repository:
+Clone este repositório:
 
 ```bash
     git clone https://github.com/daniellvaz/todo-list-rocketseat
 ```
 
-inside the project folder run:
+dentro da pasta do projeto execute:
 
 ```bash
     yarn install
 ```
 
-or
+ou
 
 ```bash
     npm install
 ```
 
-or
+ou
 
 ```bash
     pnpm install
@@ -68,4 +64,4 @@ or
 
 <h2 align="center">License 📃</h2>
 <br>
-Code School is <a href="">MIT licensed</a>.
+<a href="">MIT licensed</a>
